@@ -1,5 +1,4 @@
 💫 About Me:
-
 🌱 Currently learning and improving my skills in Java Backend Development (Spring Boot, REST APIs)<br>💻 Building hands-on projects with Kafka, MySQL, Docker & CI/CD<br>🤝 Open to collaborate on backend & microservices projects<br>💬 Ask me about Java, OOP, APIs, and backend fundamentals<br>⚡ Passionate about becoming a strong backend engineer
 
 
