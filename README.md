@@ -38,17 +38,15 @@ I enjoy transforming complex problems into practical AI solutions through agenti
 - Built an end-to-end voice assistant integrating Speech-to-Text, LLM reasoning, and Text-to-Speech.
 - Implemented asynchronous streaming APIs and real-time audio processing.
 - Developed session-state management for multi-turn conversations.
-
 **Tech:** Python, FastAPI, Multimodal AI, STT, TTS, LLMs.
-
+    [Github Repository](https://github.com/SauravJha5/MultiModel_Voice_Assistant)
 ### 3. AI-Powered Personal Tutor & Adaptive RAG Engine
 - Developed a Retrieval-Augmented Generation platform using vector search.
 - Implemented contextual retrieval, structured output schemas, and evaluation guardrails.
 - Built an automated assessment engine to identify knowledge gaps.
 
 **Tech:** Python, Generative AI, RAG, Vector Databases, Prompt Engineering.
-
----
+    [Github Repository](https://github.com/SauravJha5/AI-Powered-Personal-Tutor-)
 
 ## 💻 Tech Stack
 
